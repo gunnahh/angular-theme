@@ -1,2 +1,3 @@
 # angular-theme
-angular-bootstrap-theme
+angular-bootstrap-theme.
+Admin panel
